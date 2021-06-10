@@ -1,0 +1,45 @@
+.contenedorFooter {
+	color: white;
+	margin-top: 20px;
+}
+
+.flexfooter {
+	display: flex;
+	background-color: #3366FF;
+}
+
+.flexbox {
+	margin: 10px;
+	font-size: 30px;
+}
+
+.tituloFooter {
+	
+	font-size: 20px;
+	 margin-top: 20px;
+}
+
+.textoFooter {
+	font-size: 14px;
+}
+
+.separador1 {
+	width: 15%;
+}
+
+.separador2 {
+	width: 15%;
+}
+
+.central {
+	width: 25%;
+}
+.link{
+	font-size: 14px;
+	color: white;
+	padding: 5ºpx;
+}
+.link:hover, .link:active{
+  text-decoration: none;
+  color: white;
+}

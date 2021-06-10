@@ -1,0 +1,40 @@
+.contenedorFormulario{
+	margin-top: 1%;
+	
+	background-color: #f1f1f1;
+	border-radius: 8px;
+	border: 2px solid #3366FF;
+	width: 50%;
+	margin-left: 25%;
+	margin-right: 25%;
+}
+.formularioRegistro{
+		margin-left:10%;
+		width: 80%;
+	background-color: #f1f1f1;
+	border-radius: 8px;
+	border: 2px solid #3366FF;
+}
+.cabecera{
+  	 margin-left: 27%;
+}
+label{
+	margin-left: 5%;
+	margin-top: 1%;
+	font-weight: bold;
+	font-size: 15px;
+	text-transform: uppercase;
+		
+}
+.label-primera{
+	margin-top: 3%;
+	
+}
+.posicionInput{
+	position:relative;
+  margin-right: 20%;
+}
+.posicionBoton{
+	
+	margin-left: 40%;
+}

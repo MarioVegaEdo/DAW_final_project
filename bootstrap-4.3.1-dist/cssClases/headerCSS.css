@@ -1,0 +1,100 @@
+.contenedorHeader{
+	width: 100%;
+    height: 20%;
+}
+
+.contenedorImagenHeader{
+	float:left;
+	width: 70%;
+    height: 100%;	
+}
+
+.imagenHeader{
+	width: 100%;
+    height: 100%;		
+}
+
+.contenedorPanelHeader{
+	float:left;
+	width: 30%;
+    height: 100%;
+}
+
+.contenedorSesionIiciada{
+	
+	width: 100%;
+    height: 100%;
+/*      margin-top: 10%; */
+  	 margin-left: 1%;
+}
+
+.contenedorMiPanel{
+	margin-top: 7%;
+	float:left;
+	width: 45%;
+    height: 50%;
+    background-color: #3366FF;	
+    border-radius: 8px;
+}
+
+.imagenMiPanel{
+	margin-left:1%;
+	margin-top: 10%;
+	float:left;
+	width: 30%;
+    height: 40%;
+	
+}
+
+.contenedorAjustes{
+	margin-left:1%;
+	margin-top: 7%;
+	float:left;
+	width: 45%;
+    height: 50%;
+    background-color: #3366FF;	
+    border-radius: 8px;
+}
+
+.imagenAjustes{
+	margin-left:1%;
+	margin-top: 10%;
+	float:left;
+	width: 30%;
+    height: 40%;
+}
+
+.contenedorSinSesion{
+	background-color: #3366FF;
+	width: 75%;
+    height: 50%;
+  	border-radius: 8px;
+  	 margin-top: 8%;
+  	 margin-left: 8%;
+}
+
+.imagenAccesoUsuarios{
+	float:left;
+	width: 50%;
+    height: 100%;
+  	border-radius: 8px;
+}
+
+.textoAccesoUsuarios{
+	float:left;
+	color: white;
+	margin-top: 5%;
+	 margin-left: 3%;
+}
+.textoSesionIiciada{
+	float:left;
+	color: white;
+	margin-top: 10%;
+	 margin-left: 3%;
+	
+}
+
+.volver{
+	color: white;
+	
+}

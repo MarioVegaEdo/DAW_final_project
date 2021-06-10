@@ -1,0 +1,54 @@
+h1 {
+	font: bold  monospace;
+	text-align: center;
+	font-size: 30px
+}
+
+.p {
+	font: bold 50% monospace;
+	padding: 20px;
+}
+
+.flex-container {
+	display: flex;
+
+}
+
+.box {
+	
+	margin: 10px;
+/* 	padding: 20px; */
+	font-size: 30px;
+}
+.blanco{
+
+	width: 25%;
+}
+.contenedor{
+	
+	background-color: #f1f1f1;
+}
+.imgempleado {
+  border-radius: 50%;
+  width:50%;
+  heigth:25%;
+margin:5%;
+}
+.tabla{
+	margin:5%;
+}
+.infoEmp{
+margin-left: 5%;
+font: bold 20px monospace;
+}
+.infoEmp2{
+
+font: bold 20px monospace;
+}
+
+.p2 {
+	font: bold 50% monospace;
+	padding: 20px;
+	margin-left: 5%;
+	margin-right: 5%;
+}

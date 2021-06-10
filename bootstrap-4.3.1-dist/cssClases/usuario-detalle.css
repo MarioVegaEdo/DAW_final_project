@@ -1,0 +1,70 @@
+.titulo {
+	margin-left: 40%;
+
+}
+
+.contenedorFormulario {
+	margin-left: 25%;
+	
+	background-color: #D3DEDE;
+	border-radius: 8px;
+	border: 2px solid #3366FF;
+	width: 50%;
+}
+
+label {
+	margin-left: 5%;
+	margin-top: 1%;
+	font-weight: bold;
+	font-size: 15px;
+	text-transform: uppercase;
+}
+
+.label-primera {
+	margin-top: 3%;
+}
+
+.contenedorTabla {
+	width: 75%;
+	margin-left: 12%;
+}
+
+.imgTabla {
+	width: 50%;
+	heigth: 50%;
+}
+
+.botonera {
+	margin-left: 80%;
+}
+.botonera2 {
+	margin-left: 5%;
+}
+#cambioContrasenna {
+	margin-left: 5%;
+}
+
+.botonfalso:hover, a:active {
+	text-decoration: none;
+	color: white;
+}
+
+.botonfalso {
+	margin: 2px;
+	width: 50px;
+	text-align: center;
+}
+
+.botonfalso2 {
+	margin: 2px;
+	width: 80px;
+	text-align: center;
+}
+.botAdd{
+	padding:5px;
+	margin: 2px;
+}
+.botAdd:hover, .botAdd:active{
+  text-decoration: none;
+  color: white;
+}

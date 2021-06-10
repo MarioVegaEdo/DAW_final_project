@@ -1,0 +1,23 @@
+.paginador{
+margin-left: 45%;
+margin-bottom: 10px;	
+}
+.paginador2{
+margin-left: 40%;
+margin-bottom: 10px;	
+}
+.pag_btn{
+
+	border-radius: 8px;
+}
+.pag_num{
+
+		border-radius: 8px;
+}
+.botonP{
+	
+	background-color: #3366FF;
+	color: white;
+  	border-radius: 8px;
+    padding: 10px;
+}

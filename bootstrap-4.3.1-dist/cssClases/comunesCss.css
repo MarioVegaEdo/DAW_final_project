@@ -1,0 +1,46 @@
+.alert-formato-danger{
+  	border-radius: 8px;
+  	width: 50%;
+    height: 10%;
+    text-align: center;
+    left: 25%;
+    border: 2px solid red;
+}
+.alert-formato-sucess{
+  		border-radius: 8px;
+  	width: 50%;
+    height: 10%;
+    text-align: center;
+    left: 25%;
+    border: 2px solid green;
+}
+.boton{
+	background-color: #3366FF;
+	color: white;
+  	border-radius: 8px;
+  	border: 2px solid blue;
+}
+.volver{
+	
+		color: red;
+}
+textarea{
+	margin-left:20%;
+	resize: none;
+}
+.link{
+	font-size: 14px;
+	color: white;
+	padding: 5ºpx;
+}
+.link:hover, .link:active{
+  text-decoration: none;
+  color: white;
+}
+input[type=number]::-webkit-inner-spin-button {
+
+    -webkit-appearance: none;
+
+    margin: 0;
+
+}

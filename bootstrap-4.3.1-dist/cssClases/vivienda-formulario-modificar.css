@@ -1,0 +1,40 @@
+
+.formularioRegistro{
+		margin-left:10%;
+		width: 80%;
+	background-color: #f1f1f1;
+	border-radius: 8px;
+	border: 2px solid #3366FF;
+}
+
+.imagenPortada{
+	width: 20%;
+	height: 20%;
+		margin-left:2%;
+}
+label{
+	margin-left:2%;
+	
+}
+.tabla{
+	
+	margin-left:2%;
+	
+}
+.tituloFormulario{
+	
+	margin-left:30%;
+	margin-top:1%;
+	margin-bottom:2%;
+}
+.titulo{
+	margin-left:30%;
+
+}
+.botonera{
+	margin-left:2%;
+	margin-top:1%;
+	margin-bottom:2%;
+	
+}
+
